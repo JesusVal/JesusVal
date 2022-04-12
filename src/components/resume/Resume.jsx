@@ -5,6 +5,7 @@ const Resume = () => {
   return (
     <>
       <Header/>
+      asdasd
     </>
   );
 };
