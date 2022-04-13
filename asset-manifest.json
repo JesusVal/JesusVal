@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.92972de0.css",
-    "main.js": "/static/js/main.c96a1671.js",
-    "static/media/profile_photo.png": "/static/media/profile_photo.5cebecbe4425b8fa0b1c.png",
-    "index.html": "/index.html",
-    "main.92972de0.css.map": "/static/css/main.92972de0.css.map",
-    "main.c96a1671.js.map": "/static/js/main.c96a1671.js.map"
+    "main.css": "/JesusVal/static/css/main.92972de0.css",
+    "main.js": "/JesusVal/static/js/main.3bf5dddc.js",
+    "static/media/profile_photo.png": "/JesusVal/static/media/profile_photo.5cebecbe4425b8fa0b1c.png",
+    "index.html": "/JesusVal/index.html",
+    "main.92972de0.css.map": "/JesusVal/static/css/main.92972de0.css.map",
+    "main.3bf5dddc.js.map": "/JesusVal/static/js/main.3bf5dddc.js.map"
   },
   "entrypoints": [
     "static/css/main.92972de0.css",
-    "static/js/main.c96a1671.js"
+    "static/js/main.3bf5dddc.js"
   ]
 }
