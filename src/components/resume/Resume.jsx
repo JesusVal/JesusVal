@@ -1,5 +1,6 @@
 import React from "react";
 import About from "./resources/about/About";
+import Contact from "./resources/contact/contact";
 import Experience from "./resources/experience/Experience";
 import Header from "./resources/header/Header";
 import Navbar from "./resources/navbar/Navbar";
@@ -12,7 +13,8 @@ const Resume = () => {
       <Navbar />
       <About />
       <Experience />
-      <Services/>
+      <Services />
+      <Contact />
     </>
   );
 };
