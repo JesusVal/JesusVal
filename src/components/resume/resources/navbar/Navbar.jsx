@@ -34,9 +34,9 @@ const Navbar = () => {
         <BiBook />
       </a>
       <a
-        href="#projects"
-        onClick={() => setActiveNav("#projects")}
-        className={activeNav === "#projects" ? "active" : ""}
+        href="#services"
+        onClick={() => setActiveNav("#services")}
+        className={activeNav === "#services" ? "active" : ""}
       >
         <AiOutlineFundProjectionScreen />
       </a>
