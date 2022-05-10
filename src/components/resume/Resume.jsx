@@ -3,6 +3,7 @@ import About from "./resources/about/About";
 import Experience from "./resources/experience/Experience";
 import Header from "./resources/header/Header";
 import Navbar from "./resources/navbar/Navbar";
+import Services from "./resources/services_comp/Services";
 
 const Resume = () => {
   return (
@@ -11,6 +12,7 @@ const Resume = () => {
       <Navbar />
       <About />
       <Experience />
+      <Services/>
     </>
   );
 };
