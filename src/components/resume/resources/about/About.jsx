@@ -20,8 +20,8 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experiencia</h5>
-              <small>2 años</small>
+              <h5>Experience</h5>
+              <small>2 years</small>
             </article>
 
             <article className="about__card">
@@ -37,13 +37,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
-            numquam exercitationem nesciunt laudantium voluptatibus similique
-            placeat facere quo cupiditate vel odio at quas consectetur laborum
-            enim corrupti fuga, nisi earum?
+            I'm a full-stack developer from Guadalajara, with 2 years of
+            experience designing, developing, and implementing web and mobile
+            applications. I'm looking to join a team to continue to grow up my
+            skill set while contributing to the development of the team.
           </p>
 
-          <a href="#contact" className="btn btn-primary">Let's talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's talk
+          </a>
         </div>
       </div>
     </section>
