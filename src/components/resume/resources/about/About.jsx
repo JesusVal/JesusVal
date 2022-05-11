@@ -6,8 +6,8 @@ import { FaAward } from "react-icons/fa";
 const About = () => {
   return (
     <section id="about">
-      <h5>Acerca de mi</h5>
-      <h2>Acerca de mi</h2>
+      {/* <h5>Acerca de mi</h5> */}
+      <h2>About me</h2>
 
       <div className="container about__container">
         <div className="about__me">
